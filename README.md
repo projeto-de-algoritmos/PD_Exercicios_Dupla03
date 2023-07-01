@@ -1,33 +1,23 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
-
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
+# Exercícios_Dupla03
 
 **Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: Programação Dinâmica<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 19/0085291  |  Caio César Oliveira |
+| 19/0091703   |  Lucas Henrique Lima de Queiroz |
 
 ## Sobre 
 Descreva os objetivos do seu projeto e como ele funciona. 
 
 ## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
+
+[House Robber](https://leetcode.com/problems/house-robber/)
+
+
 
 ## Instalação 
 **Linguagem**: xxxxxx<br>
@@ -39,7 +29,6 @@ Explique como usar seu projeto caso haja algum passo a passo após o comando de 
 
 ## Outros 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
-
 
 
 
