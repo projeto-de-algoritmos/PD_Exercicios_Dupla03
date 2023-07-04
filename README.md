@@ -17,6 +17,8 @@ Descreva os objetivos do seu projeto e como ele funciona.
 
 [House Robber](https://leetcode.com/problems/house-robber/)
 
+[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+
 
 
 ## Instalação 
