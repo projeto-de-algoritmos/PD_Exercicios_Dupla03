@@ -24,5 +24,10 @@ Exercícios resolvidos sobre o conteúdo Programação DinÂmica.
 
 ![image](https://github.com/projeto-de-algoritmos/PD_Exercicios_Dupla03/assets/54439337/0f9f1738-a8f4-426b-8a74-da5b3d90626b)
 
+[Edit Distance](https://leetcode.com/problems/edit-distance/description/?envType=study-plan-v2&envId=dynamic-programming)
+
+![Captura de tela de 2023-07-08 16-01-35](https://github.com/projeto-de-algoritmos/PD_Exercicios_Dupla03/assets/54439337/de874c24-c15e-431c-8aa7-ad188b3f4e25)
+
+
 ## Tecnologia 
 **Linguagem**: C e Python
