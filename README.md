@@ -14,11 +14,11 @@ Exercícios resolvidos sobre o conteúdo Programação DinÂmica.
 
 ## Screenshots e Exercícios
 
-[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
+[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)![](/home/lucas/Documents/PAlg/PD_Exercicios_Dupla03/prints/fib.png)
 
-[House Robber](https://leetcode.com/problems/house-robber/)
+[House Robber](https://leetcode.com/problems/house-robber/)![](/home/lucas/Documents/PAlg/PD_Exercicios_Dupla03/prints/house_robber.png)
 
-[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
+[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)![](/home/lucas/Documents/PAlg/PD_Exercicios_Dupla03/prints/longest_increasing_subsequence.png)
 
 [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/?envType=study-plan-v2&envId=dynamic-programming)
 
