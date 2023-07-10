@@ -16,15 +16,15 @@ Exercícios resolvidos sobre o conteúdo Programação DinÂmica.
 
 [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 
-![image](https://github.com/projeto-de-algoritmos/PD_Exercicios_Dupla03/prints/fib.png)
+![fib](https://github.com/projeto-de-algoritmos/PD_Exercicios_Dupla03/assets/54439337/df54a3e4-927a-4f1a-a29d-004dc8fcf3fe)
 
 [House Robber](https://leetcode.com/problems/house-robber/)
 
-![image](https://github.com/projeto-de-algoritmos/PD_Exercicios_Dupla03/prints/house_robber.png)
+![house_robber](https://github.com/projeto-de-algoritmos/PD_Exercicios_Dupla03/assets/54439337/d343bb6d-e087-42f5-aeb3-039ef0f84cb2)
 
 [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 
-![image](https://github.com/projeto-de-algoritmos/PD_Exercicios_Dupla03/prints/longest_increasing_subsequence.png)
+![longest_increasing_subsequence](https://github.com/projeto-de-algoritmos/PD_Exercicios_Dupla03/assets/54439337/f647b7fd-7113-45aa-b3de-ab9fe795c599)
 
 [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/?envType=study-plan-v2&envId=dynamic-programming)
 
